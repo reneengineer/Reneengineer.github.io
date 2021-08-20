@@ -1,8 +1,0 @@
-Bites Changelog.
-
-V 1.2.1 Bug in bites.js that broke jQuery integration with Wordpress was fixed
-
-V 1.2 Error that made impossible content interaction when opening a bite with parameter data-backdrop="false" was fixed
-
-V 1.1 Design of Bite-2 and Bite-29 was changed.
-
